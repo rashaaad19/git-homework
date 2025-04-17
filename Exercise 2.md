@@ -72,6 +72,7 @@
 - Create a new repo.
 - You Both Clone it, make a change, push it, then open a Pull Request.
 - Review and approve each other's PR.
+--> ![image](https://github.com/user-attachments/assets/43f1f1e7-9257-4e7f-bb4b-be63a2fc7a87)
 
 ---
 
