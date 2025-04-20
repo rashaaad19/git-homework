@@ -62,6 +62,10 @@ Write a clear and meaningful commit message for the following scenario:
 
 "You added a responsive navbar component to your web application."
 
+
+--> git add -m " feat: navbar
+- added new responsive navbar component"
+
 Bad Example: `update`  
 Your Turn:
 feat: Added responsive navbar component
