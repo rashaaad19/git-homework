@@ -27,7 +27,7 @@
 
 1. Initialize a new Git project: `git init`
 2. Create a new branch called "feature-x": `git branch feature-x`
-3. Stage all files: `git . .`
+3. Stage all files: `git .`
 4. See changes that are staged: `git diff --staged`
 5. Combine changes from feature-x to main: `git commit -m feature-x`
 
